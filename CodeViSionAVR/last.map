@@ -1,0 +1,32 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+ADC_OUT                                                           0x019D       4
+dienap                                                            0x01A1       4
+txt                                                               0x01A5      10
+tcn1                                                              0x01AF       2
+tcn2                                                              0x01B1       2
+temp                                                              0x01B3      10
+nhietdo                                                           0x01BD       1
+rx_buffer                                                         0x01BE       5
+_base_y                                                           0x01C3       4
+_lcd_x                                                            0x01C7       1
+_lcd_y                                                            0x01C8       1
+_lcd_maxx                                                         0x01C9       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+tram                                                              R5           1
+chuc                                                              R4           1
+chuclcd                                                           R7           1
+dvilcd                                                            R6           1
+dvi                                                               R9           1
+dem                                                               R8           1
+rx_data                                                           R11          1
+cnt                                                               R10          1
+i                                                                 R12,R13      2

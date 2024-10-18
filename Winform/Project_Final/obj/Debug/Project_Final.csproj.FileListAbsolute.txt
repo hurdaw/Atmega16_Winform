@@ -1,0 +1,52 @@
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\Project_Final.exe.config
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\Project_Final.exe
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\Project_Final.pdb
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\obj\Debug\Project_Final.csproj.AssemblyReference.cache
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\obj\Debug\Project_Final.Form1.resources
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\obj\Debug\Project_Final.Properties.Resources.resources
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\obj\Debug\Project_Final.csproj.GenerateResource.cache
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\obj\Debug\Project_Final.csproj.CoreCompileInputs.cache
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\obj\Debug\Project_Final.exe
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\obj\Debug\Project_Final.pdb
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\ZedGraph.dll
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\ZedGraph.xml
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\de\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\es\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\fr\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\hu\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\it\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\ja\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\pt\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\ru\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\sk\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\sv\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\tr\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\C#\Project_Final\Project_Final\obj\Debug\Project_Final.csproj.CopyComplete
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\Project_Final.exe.config
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\Project_Final.exe
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\Project_Final.pdb
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\ZedGraph.dll
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\ZedGraph.xml
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\de\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\es\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\fr\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\hu\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\it\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\ja\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\pt\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\ru\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\sk\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\sv\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\tr\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\obj\Debug\Project_Final.csproj.AssemblyReference.cache
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\obj\Debug\Project_Final.Form1.resources
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\obj\Debug\Project_Final.Properties.Resources.resources
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\obj\Debug\Project_Final.csproj.GenerateResource.cache
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\obj\Debug\Project_Final.csproj.CoreCompileInputs.cache
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\obj\Debug\Project_Final.csproj.CopyComplete
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\obj\Debug\Project_Final.exe
+D:\Năm 3\vi xử lý\N21DCVT097-Nguyễn Hoàng Thắng\Winform\Project_Final\obj\Debug\Project_Final.pdb
